@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <div className='container'>
+      <img src={reactLogo} alt="React Logo" className="logo" />
         <h1 className='heading'>Counter App using React</h1>
           <div className='style-container'>
             <div className='card'>
